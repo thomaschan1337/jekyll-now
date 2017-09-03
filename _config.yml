@@ -22,7 +22,11 @@ footer-links:
 # Used for Sitemap.xml and your RSS feed
 url: http://www.thomaschan.me
 
-# url format
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
 permalink: /:year/:month/:day/:title/
 
 # timezone
@@ -52,9 +56,6 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-plugins:
-  - jekyll-seo-tag
 
 # Exclude these files from your production _site
 exclude:
