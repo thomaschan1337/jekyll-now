@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Hi and welcome! I'm currently a student of the BBA and BCS Double Degree program at Wilfrid Laurier University and the University of Waterloo.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Feel free to drop me an email:
+[thomas@thomaschan.me](mailto:thomas@thomaschan.me)
