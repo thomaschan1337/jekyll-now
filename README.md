@@ -1,5 +1,5 @@
 
-This is GitHub pages for my personal website, [thomaschan.me](thomaschan.me).
+This is GitHub pages for my personal website, [thomaschan.me](http://thomaschan.me).
 
 ## Credits
 
