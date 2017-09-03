@@ -1,8 +1,10 @@
 
+This is GitHub pages for my personal website, [thomaschan.me](thomaschan.me).
 
 ## Credits
 
-- [Jekyll Now](https://github.com/barryclark/jekyll-now) - Thanks to Barry Clark for providing this blog layout, design, and setup.
+[Jekyll Now](https://github.com/barryclark/jekyll-now) - Huge thank you to to Barry Clark for providing this blog layout, design, and setup. Below are the credits of the original credits found in "Jekyll Now".
+
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
 - [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
 - [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
